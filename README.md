@@ -8,4 +8,4 @@
 - 🐦 **[Twitter](https://twitter.com/leovianaf_)** @leovianaf_
 - 💼 **[LinkedIn](https://www.linkedin.com/in/leonardo-viana-filho/)** @leovianaf
 - 📸 **[Instagram](https://www.instagram.com/leovianaf_/)** @leovianaf_
-- 🎮 **Discord** Vexfall#6277
+- 🎮 **Discord** Vexfall#9930
