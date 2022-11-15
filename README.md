@@ -1,6 +1,6 @@
 # ✌ Hi, I'm Leonardo!
 
-- I'm an 18-years-old self-taught developer based in **Recife, Brazil**.
+- I'm an 19-years-old self-taught developer based in **Recife, Brazil**.
 - Currently studying **Computer Science** at [UFRPE](http://www.ufrpe.br/)
 - I mainly code in **JavaScript**, but I'm also very interested in Python. 
 
