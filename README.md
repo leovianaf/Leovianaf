@@ -2,7 +2,7 @@
 
 - I'm an 20-years-old self-taught developer based in **Recife, Brazil**.
 - Currently studying **Computer Science** at [UFRPE](http://www.ufrpe.br/)
-- I mainly code in **Java**, but I'm also very interested in Python, JavaScript, C# and C. 
+- I mainly code in **Java**, but I'm also very interested in Python, JavaScript, C#, .NET and C. 
 
 ## Follow me around the internet
 - 🐦 **[Twitter](https://twitter.com/leovianaf_)** @leovianaf_
