@@ -13,7 +13,7 @@
 - Mainly code in **Java**.
 - Proficient in **C#**, **Python**, and **Node.js**.
 
-## Data base
+## Database
 - Proficient in **MySQL** and **PostgreSQL**
 
 ## Cloud Computing Experience ☁️
