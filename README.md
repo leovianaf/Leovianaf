@@ -2,7 +2,7 @@
 
 - I'm a 20-year-old software developer based in **Recife, Brazil**.
 - Currently studying **Computer Science** at [UFRPE](http://www.ufrpe.br/).
-- Currently studying **React** at [Udemy](https://www.udemy.com).
+- Currently studying **TypeScript and React** at [Udemy](https://www.udemy.com) and [Rocketseat](https://www.rocketseat.com.br).
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leovianaf&show_icons=true&theme=synthwave"/>
