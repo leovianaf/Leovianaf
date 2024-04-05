@@ -18,6 +18,7 @@
   <img align="center" alt="Leonardo-JavaScript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Leonardo-TypeScript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="Leonardo-React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img align="center" alt="Leonardo-Tailwind" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 </div>
 
 ### Back-End 💻
