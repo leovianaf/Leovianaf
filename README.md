@@ -1,9 +1,20 @@
 # ✌ Hi, I'm Leonardo!
 
-- I'm a 21-year-old software developer based in **Recife, Brazil**.
-- Currently working as a **Fullstack developer** at [SENAI - ISI-TICs](https://www.linkedin.com/company/isitics/mycompany/), specializing in **React** and **NestJs**.
-- **Computer Science** student at [UFRPE](http://www.ufrpe.br/).
-- Experienced in **AI Algorithms API** development with **Python** and **Django**.
+- 💻 Software Developer | RPA & Fullstack at [V360](https://www.linkedin.com/company/v-360/).
+- 🎓 Computer Science Student at [UFRPE](http://www.ufrpe.br/).
+- 🌍 Based in Recife, Brazil
+  
+I work with RPA Automation and Fullstack Development, focusing on:
+- RPA Development using **Python** and **Playwright**.
+- Fullstack Development with **Ruby on Rails**.
+- Infrastructure with **Docker**.
+
+I also have experience with: 
+- Web Development using **React**, **NestJS** and **NodeJS**.
+- Backend AI API using **Django**.
+- Cloud solutions using **AWS**.
+
+## 📊 GitHub Stats
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leovianaf&show_icons=true&theme=synthwave"/>
@@ -24,24 +35,33 @@
 
 ### Back-End 💻
 <div>
-  <img align="center" alt="Leonardo-NestJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
   <img align="center" alt="Leonardo-Node.js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="Leonardo-NestJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
   <img align="center" alt="Leonardo-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" alt="Leonardo-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img align="center" alt="Leonardo-Django" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
   <img align="center" alt="Leonardo-C#" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="Leonardo-Ruby" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
+  <img align="center" alt="Leonardo-Rails" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" />
+  <img align="center" alt="Leonardo-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 </div>
 
-### Database 🖥
+### RPA Development 🤖
+<div>
+  <img align="center" alt="Leonardo-Playwright" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+</div>
+
+### Databases 🖥
 <div>
   <img align="center" alt="Leonardo-PostgreSQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
   <img align="center" alt="Leonardo-MySQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Leonardo-SQLite" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
 </div>
 
-### Infraestructure ☁️
+### Infrastructure ☁️
 <div>
   <img align="center" alt="Leonardo-Docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
   <img align="center" alt="Leonardo-AWS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+  <img align="center" alt="Leonardo-AWS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 
 ### Games 🎮
